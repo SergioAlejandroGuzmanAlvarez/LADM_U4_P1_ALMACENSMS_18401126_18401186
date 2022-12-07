@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067798818006",
+    "project_id": "ladm-u4-sms-18401126-18401186",
+    "storage_bucket": "ladm-u4-sms-18401126-18401186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067798818006:android:37405a1de611ec9e4fed77",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_p1_almacensms_18401126_18401186"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067798818006-i5o028kb1a4f6e11vkh30q9mehfnm07n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80XnT0MloFcKsCDCBAicm18nrykOURWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067798818006-i5o028kb1a4f6e11vkh30q9mehfnm07n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
